@@ -6,8 +6,8 @@
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
 
-<p align="center">
-  <img width="460" height="300" src="https://media.tenor.com/igOm9V5zdy4AAAAC/computer-probloms.gif">
+<p align="right">
+  <img width="100" height="100" src="https://media.tenor.com/igOm9V5zdy4AAAAC/computer-probloms.gif">
 </p>
 
 <div>
