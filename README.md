@@ -6,8 +6,9 @@
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LauraPivoto&show_icons=true&theme=github_dark&line_height=27&hide_rank=true&count_private=true" alt="Laura Pivoto's github stats"/>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LauraPivoto&hide=html,css,jupyter%20notebook&layout=compact&theme=github_dark&langs_count=10" alt="Laura Pivoto's github stats"/>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=monokai&show_icons=true&hide_border=true" />
+
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LauraPivoto&hide=html,css,jupyter%20notebook&layout=compact&theme=monokai&langs_count=10" alt="Laura Pivoto's github stats"/>
 <br />
 
 # Experience in
