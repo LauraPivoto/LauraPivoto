@@ -3,13 +3,14 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LauraPivoto)](https://github.com/LauraPivoto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-pivoto-299a061b6/)](https://www.linkedin.com/in/laura-pivoto-299a061b6/)
 
+<div align="center">
+  <a href="https://github.com/LauraPivoto">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LauraPivoto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai&count_private=true"/>
+</div>
+
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
-
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=monokai&show_icons=true&hide_border=true" />
-
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LauraPivoto&hide=html,css,jupyter%20notebook&layout=compact&theme=monokai&langs_count=10" alt="Laura Pivoto's github stats"/>
-<br />
 
 # Experience in
   
