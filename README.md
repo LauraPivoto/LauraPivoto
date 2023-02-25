@@ -9,8 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai&count_private=true)](https://github.com/LauraPivoto/github-readme-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto)](https://github.com/LauraPivoto/github-readme-stats)
-    
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
 
