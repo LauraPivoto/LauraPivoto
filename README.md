@@ -7,7 +7,7 @@
   <a href="https://github.com/LauraPivoto">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LauraPivoto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai)](https://github.com/LauraPivoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai&count_private=true)](https://github.com/LauraPivoto/github-readme-stats)
     
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
