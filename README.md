@@ -6,8 +6,6 @@
 <div align="center">
   <a href="https://github.com/LauraPivoto">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LauraPivoto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai&count_private=true"/>
-</div>
 
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
