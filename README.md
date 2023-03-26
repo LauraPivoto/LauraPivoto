@@ -1,6 +1,5 @@
 # Hello, jovens! <img height="40" width="40" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LauraPivoto)](https://github.com/LauraPivoto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-pivoto-299a061b6/)](https://www.linkedin.com/in/laura-pivoto-299a061b6/)
 
 <div align="center">
