@@ -4,9 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/LauraPivoto">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LauraPivoto&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&theme=monokai&count_private=true)](https://github.com/LauraPivoto/github-readme-stats)
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=dark&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=dark&show_icons=true" />
+</a>
+</div>
     
 ### About me
 Software Engineering Student and CS&I Software Security researcher at Inatel.
