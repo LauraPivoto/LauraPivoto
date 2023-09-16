@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/LauraPivoto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=monikai&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=monokai&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=monokai&show_icons=true" />
 </a>
 </div>
