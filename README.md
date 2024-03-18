@@ -4,8 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/LauraPivoto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=dark&show_icons=true" />
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=dark&show_icons=true" />
 </a>
 </div>
