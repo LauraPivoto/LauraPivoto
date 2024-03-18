@@ -4,6 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/LauraPivoto">
+    ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraPivoto&show_icons=true&theme=radical&private=true)
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=dark&show_icons=true" />
 </a>
 </div>
