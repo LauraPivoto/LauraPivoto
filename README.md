@@ -1,4 +1,4 @@
-# Hello, jovens! <img height="40" width="40" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
+# Olá! <img height="20" width="20" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-pivoto-299a061b6/)](https://www.linkedin.com/in/laura-pivoto-299a061b6/)
 
@@ -10,7 +10,7 @@
 </div>
     
 ### About me
-Software Engineering Student and CS&I Software Security researcher at Inatel.
+Software Engineering Student and Software Development intern at Vetta.
 
 # Experience in
   
