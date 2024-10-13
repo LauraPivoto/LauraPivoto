@@ -14,7 +14,21 @@
 Software Engineering Student and Software Development intern at Vetta.
 
 # Experience in
-  
+
 <p align="center">
- <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
+  <img src="./icons8-java-200.png" alt="Java" width="75" height="75"/>
+  <img src="./icons8-dart-144.png" alt="Dart" width="75" height="75"/>
+  <img src="./icons8-mysql-144.png" alt="MySQL" width="75" height="75"/>
+  <img src="./icons8-js-144.png" alt="JavaScript" width="75" height="75"/>
+  <img src="./icons8-java-eclipse-160.png" alt="Eclipse" width="75" height="75"/>
+  <img src="./icons8-dbeaver-128.png" alt="DBeaver" width="75" height="75"/>
+  <img src="./icons8-flutter-144.png" alt="Flutter" width="75" height="75"/>
+  <img src="./icons8-visual-studio-code-144.png" alt="Visual Studio Code" width="75" height="75"/>
+  <img src="./icons8-swagger-144.png" alt="Swagger" width="75" height="75"/>
+  <img src="./icons8-arduino-144.png" alt="Arduino" width="75" height="75"/>
+  <img src="./icons8-c-144.png" alt="C" width="75" height="75"/>
+  <img src="./icons8-canva-200.png" alt="Canva" width="75" height="75"/>
+  <img src="./icons8-android-studio-144.png" alt="Android Studio" width="75" height="75"/>
+  
+  
 </p>
