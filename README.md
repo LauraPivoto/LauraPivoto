@@ -1,9 +1,8 @@
-# Olá! <img height="20" width="20" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
+# Hello! <img height="20" width="20" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
 
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-pivoto-299a061b6/)](https://www.linkedin.com/in/laura-pivoto-299a061b6/)
-
 
   <a href="https://github.com/LauraPivoto">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=dark&show_icons=true&include_all_commits=true" />
