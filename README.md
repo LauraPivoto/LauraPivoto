@@ -11,7 +11,7 @@
 </div>
     
 ### About me
-Software Engineering Student and Software Development intern at Vetta.
+Software Engineering Student and Software Development intern at Embraer.
 
 # Experience in
 
