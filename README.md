@@ -9,7 +9,6 @@ Software Engineering Student at Inatel and Software Development intern at Embrae
 
   <a href="https://github.com/LauraPivoto">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LauraPivoto&theme=dark&show_icons=true&include_all_commits=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=dark&show_icons=true" />
 </a>
 </div>
 
