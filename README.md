@@ -1,4 +1,7 @@
-# Hello! <img height="20" width="20" src="https://user-images.githubusercontent.com/82482184/213014769-59932307-2c84-4da4-b13b-73816bfe084c.png"/>
+# Hello!
+
+### About me
+Software Engineering Student at Inatel and Software Development intern at Embraer.
 
 <div align="center">
   
@@ -9,9 +12,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPivoto&layout=compact&langs_count=5&theme=dark&show_icons=true" />
 </a>
 </div>
-    
-### About me
-Software Engineering Student and Software Development intern at Embraer.
 
 # Experience in
 
@@ -24,10 +24,9 @@ Software Engineering Student and Software Development intern at Embraer.
   <img src="./icons8-dbeaver-128.png" alt="DBeaver" width="75" height="75"/>
   <img src="./icons8-flutter-144.png" alt="Flutter" width="75" height="75"/>
   <img src="./icons8-visual-studio-code-144.png" alt="Visual Studio Code" width="75" height="75"/>
-  <img src="./icons8-swagger-144.png" alt="Swagger" width="75" height="75"/>
   <img src="./icons8-arduino-144.png" alt="Arduino" width="75" height="75"/>
   <img src="./icons8-c-144.png" alt="C" width="75" height="75"/>
-  <img src="./icons8-canva-200.png" alt="Canva" width="75" height="75"/>
+  
   <img src="./icons8-android-studio-144.png" alt="Android Studio" width="75" height="75"/>
   
   
