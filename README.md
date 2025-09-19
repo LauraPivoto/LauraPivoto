@@ -27,7 +27,10 @@ Software Engineering Student at Inatel and Software Development intern at Embrae
   <img src="./icons8-js-144.png" alt="JavaScript" width="50" height="50"/>
   <img src="./icons8-mysql-144.png" alt="MySQL" width="50" height="50"/>
   <img src="./icons8-swagger-144.png" alt="Swagger" width="50" height="50"/>
-  <img src="./icons8-visual-studio-code-144.png" alt="VS Code" width="50" height="50"/>
+  <img src="./icons8-python-48.png" alt="VS Code" width="50" height="50"/>
+  <img src="./icons8-react-80.png" alt="VS Code" width="50" height="50"/>
+  <img src="./icons8-figma-48.png" alt="VS Code" width="50" height="50"/>
+  
   
 </div>
 
